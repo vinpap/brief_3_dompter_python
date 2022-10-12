@@ -1,6 +1,6 @@
 # brief_3_dompter_python
 
-Modules utilisés : 
+Modules utilisés (à l'exception des modules Python standard) : 
 - Pandas
 - Numpy 
 - Matplotlib
